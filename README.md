@@ -1,1 +1,3 @@
-# Coding-Challenge-16
+# Coding-Challenge-16  U41684674
+
+The goal of the dynamic "Meet the Team" page project is to create a React web page that dynamically displays team member profiles for a tech business. The application consists of a root component, a gallery for showcasing profiles, and components specific to each team member's profile.It demonstrates the use of React component structures, props, and imports/exports to create a scalable application. 
