@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  .gallery {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .profile {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 200px;
+  }
+  
+  .profile img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+  }
+  
+  .profile h2 {
+    font-size: 1.5em;
+  }
+  
+  .profile p {
+    color: #666;
+  }
+  
